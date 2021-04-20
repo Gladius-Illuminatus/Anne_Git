@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/ottda/Documents/PlatformIO/Projects/Anne_Eyes/include",
-                "c:/Users/ottda/Documents/PlatformIO/Projects/Anne_Eyes/src",
+                "C:/Users/ottda/Documents/PlatformIO/Projects/Anne_Git/include",
+                "C:/Users/ottda/Documents/PlatformIO/Projects/Anne_Git/src",
                 "C:/Users/ottda/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/ottda/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "C:/Users/ottda/.platformio/lib/FastLED/src",
@@ -29,8 +29,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/ottda/Documents/PlatformIO/Projects/Anne_Eyes/include",
-                    "c:/Users/ottda/Documents/PlatformIO/Projects/Anne_Eyes/src",
+                    "C:/Users/ottda/Documents/PlatformIO/Projects/Anne_Git/include",
+                    "C:/Users/ottda/Documents/PlatformIO/Projects/Anne_Git/src",
                     "C:/Users/ottda/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/ottda/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "C:/Users/ottda/.platformio/lib/FastLED/src",
